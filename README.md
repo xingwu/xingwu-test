@@ -1,4 +1,4 @@
 xingwu-test
 ===========
 
-This is a test repo of xing
+First repo of xing
